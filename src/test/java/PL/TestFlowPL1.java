@@ -14,8 +14,8 @@ import pages.CountryandSalesLine;
 import pages.FileUploadEngine;
 import pages.Login;
 import selenium_demo.selenium_demo.JsonData;
-import selenium_demo.selenium_demo.LoadDrivers_remote;
-//import selenium_demo.selenium_demo.LoadDrivers;
+//import selenium_demo.selenium_demo.LoadDrivers_remote;
+import selenium_demo.selenium_demo.LoadDrivers;
 import selenium_demo.selenium_demo.Prerequizites;
 
 public class TestFlowPL1 {
@@ -31,7 +31,7 @@ public class TestFlowPL1 {
 		logger.info("start load data ");
 		jsondata = JsonData.returnCredential(0); // return first block from json (country DE)
 		// driver = LoadDrivers_remote.driver(browser, jsondata.get(9));
-		driver = LoadDrivers_remote.driver(browser, jsondata.get(9));
+		driver = LoadDrivers.driver(browser, jsondata.get(9));
 		logger.info("end start load data ");
 		Login login = new Login(driver);
 		boolean objectscheck_login = login.check_objects();
@@ -66,18 +66,27 @@ public class TestFlowPL1 {
 
 		cas.select_country();
 
-		/*
-		 * cas.displayperiod_selectfirstvalue(); Thread.sleep(1000);
-		 * cas.perform_querry(); Thread.sleep(1000);
-		 * cas.displayperiod_selectsecondvalue(); Thread.sleep(1000);
-		 * cas.perform_querry(); Thread.sleep(1000);
-		 * cas.displayperiod_selectthirdvalue(); Thread.sleep(1000);
-		 * cas.perform_querry(); Thread.sleep(1000);
-		 * cas.displayperiod_selectfourthvalue(); Thread.sleep(1000);
-		 * cas.perform_querry(); Thread.sleep(1000);
-		 * cas.displayperiod_selectfiftvalue(); Thread.sleep(1000);
-		 * cas.perform_querry(); Thread.sleep(1000);
-		 */
+		cas.displayperiod_selectfirstvalue();
+		Thread.sleep(1000);
+		cas.perform_querry();
+		Thread.sleep(1000);
+		cas.displayperiod_selectsecondvalue();
+		Thread.sleep(1000);
+		cas.perform_querry();
+		Thread.sleep(1000);
+		cas.displayperiod_selectthirdvalue();
+		Thread.sleep(1000);
+		cas.perform_querry();
+		Thread.sleep(1000);
+		cas.displayperiod_selectfourthvalue();
+		Thread.sleep(1000);
+		cas.perform_querry();
+		Thread.sleep(1000);
+		cas.displayperiod_selectfiftvalue();
+		Thread.sleep(1000);
+		cas.perform_querry();
+		Thread.sleep(1000);
+
 	}
 
 	@Test(priority = 2)
