@@ -1258,3 +1258,17 @@ INFO	2020-01-21 15:30:28,508	8513	pages.Login	[main]	insert user
 INFO	2020-01-21 15:30:29,795	9800	pages.Login	[main]	insert passs
 INFO	2020-01-21 15:30:30,913	10918	pages.Login	[main]	insert click login
 INFO	2020-01-21 15:30:36,181	16186	PL.TestFlowPL1	[main]	login succesfully
+INFO	2020-01-21 15:34:01,337	0	PL.TestFlowPL1	[main]	start load data 
+INFO	2020-01-21 15:34:08,323	6986	PL.TestFlowPL1	[main]	end start load data 
+INFO	2020-01-21 15:34:10,432	9095	pages.Login	[main]	insert user
+INFO	2020-01-21 15:34:11,743	10406	pages.Login	[main]	insert passs
+INFO	2020-01-21 15:34:12,880	11543	pages.Login	[main]	insert click login
+INFO	2020-01-21 15:34:18,182	16845	PL.TestFlowPL1	[main]	login succesfully
+INFO	2020-01-21 16:41:50,483	0	PL.TestFlowPL1	[main]	start load data 
+INFO	2020-01-21 16:41:57,120	6637	PL.TestFlowPL1	[main]	end start load data 
+INFO	2020-01-21 16:41:59,207	8724	pages.Login	[main]	insert user
+INFO	2020-01-21 16:42:00,529	10046	pages.Login	[main]	insert passs
+INFO	2020-01-21 16:42:01,681	11198	pages.Login	[main]	insert click login
+INFO	2020-01-21 16:44:13,585	0	PL.TestFlowPL1	[main]	start load data 
+INFO	2020-01-21 16:44:20,156	6571	PL.TestFlowPL1	[main]	end start load data 
+INFO	2020-01-21 16:44:22,483	8898	pages.Login	[main]	insert user

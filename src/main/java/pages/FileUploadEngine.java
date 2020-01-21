@@ -6,8 +6,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import selenium_demo.selenium_demo.Highlighlit;
-
 public class FileUploadEngine {
 	static WebDriver driver;
 	By path = By.id("country-select inside");
@@ -24,7 +22,7 @@ public class FileUploadEngine {
 
 		WebElement uploadElement = driver.findElement(By.cssSelector("body > div:nth-child(16) > input:nth-child(1)"));
 
-		Highlighlit.highLighterMethod(driver, uploadElement);
+		// Highlighlit.highLighterMethod(driver, uploadElement);
 
 		Thread.sleep(10000);
 
@@ -42,7 +40,7 @@ public class FileUploadEngine {
 		// click the "UploadFile" button
 		Thread.sleep(10000);
 		WebElement push = driver.findElement(By.id("uploadButton"));
-		Highlighlit.highLighterMethod(driver, push);
+		// Highlighlit.highLighterMethod(driver, push);
 		push.click();
 	}
 
