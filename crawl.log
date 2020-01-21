@@ -1,0 +1,1249 @@
+INFO	2019-06-28 17:21:57,396	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-06-28 17:22:02,979	5583	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-08 14:21:23,386	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-08 14:21:29,083	5697	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-08 14:22:16,774	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-08 14:22:22,013	5239	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-09 13:01:23,354	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-09 13:01:29,580	6226	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-09 13:01:32,911	9557	pages.Login	[main]	insert user
+INFO	2019-07-09 13:01:33,202	9848	pages.Login	[main]	insert passs
+INFO	2019-07-09 13:01:33,285	9931	pages.Login	[main]	insert click login
+INFO	2019-07-09 13:02:43,355	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-09 13:02:49,082	5727	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-09 13:02:52,418	9063	pages.Login	[main]	insert user
+INFO	2019-07-09 13:02:52,688	9333	pages.Login	[main]	insert passs
+INFO	2019-07-09 13:02:52,767	9412	pages.Login	[main]	insert click login
+INFO	2019-07-09 13:07:12,570	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-09 13:07:18,478	5908	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-09 13:07:21,920	9350	pages.Login	[main]	insert user
+INFO	2019-07-09 13:07:22,257	9687	pages.Login	[main]	insert passs
+INFO	2019-07-09 13:07:22,344	9774	pages.Login	[main]	insert click login
+INFO	2019-07-09 13:07:27,617	15047	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-09 14:23:18,908	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-09 14:23:24,467	5559	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-09 14:23:27,771	8863	pages.Login	[main]	insert user
+INFO	2019-07-09 14:23:28,076	9168	pages.Login	[main]	insert passs
+INFO	2019-07-09 14:23:28,171	9263	pages.Login	[main]	insert click login
+INFO	2019-07-09 14:23:33,455	14547	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-09 14:26:26,243	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-09 14:26:32,314	6071	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-09 14:26:35,510	9267	pages.Login	[main]	insert user
+INFO	2019-07-09 14:26:35,852	9609	pages.Login	[main]	insert passs
+INFO	2019-07-09 14:26:35,936	9693	pages.Login	[main]	insert click login
+INFO	2019-07-09 14:26:41,209	14966	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-09 14:30:14,941	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-09 14:30:20,737	5796	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-09 14:30:23,567	8626	pages.Login	[main]	insert user
+INFO	2019-07-09 14:30:23,874	8933	pages.Login	[main]	insert passs
+INFO	2019-07-09 14:30:23,955	9014	pages.Login	[main]	insert click login
+INFO	2019-07-09 14:30:29,226	14285	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-09 14:31:12,212	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-09 14:31:18,101	5889	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-09 14:31:21,300	9088	pages.Login	[main]	insert user
+INFO	2019-07-09 14:31:21,580	9368	pages.Login	[main]	insert passs
+INFO	2019-07-09 14:31:21,660	9448	pages.Login	[main]	insert click login
+INFO	2019-07-09 14:31:26,911	14699	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-10 13:06:59,463	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-10 13:07:05,366	5903	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-10 13:07:08,566	9103	pages.Login	[main]	insert user
+INFO	2019-07-10 13:07:08,853	9390	pages.Login	[main]	insert passs
+INFO	2019-07-10 13:07:08,934	9471	pages.Login	[main]	insert click login
+INFO	2019-07-10 13:07:14,195	14732	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-10 13:07:39,603	40140	pages.CountryandSalesLine	[main]	the salesline value doesn'r need to be changed
+INFO	2019-07-10 13:07:39,603	40140	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-07-10 13:10:53,712	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-10 13:10:59,272	5560	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-10 13:11:02,441	8729	pages.Login	[main]	insert user
+INFO	2019-07-10 13:11:02,727	9015	pages.Login	[main]	insert passs
+INFO	2019-07-10 13:11:02,808	9096	pages.Login	[main]	insert click login
+INFO	2019-07-10 13:11:08,077	14365	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-10 13:11:33,541	39829	pages.CountryandSalesLine	[main]	the salesline value doesn'r need to be changed
+INFO	2019-07-10 13:11:33,541	39829	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-07-10 13:11:33,683	39971	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-07-10 13:13:33,091	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-10 13:13:38,837	5746	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-10 13:13:42,060	8969	pages.Login	[main]	insert user
+INFO	2019-07-10 13:13:42,332	9241	pages.Login	[main]	insert passs
+INFO	2019-07-10 13:13:42,414	9323	pages.Login	[main]	insert click login
+INFO	2019-07-10 13:13:47,677	14586	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-10 13:14:03,061	29970	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-07-10 13:14:03,205	30114	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-07-12 18:16:59,445	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-12 18:17:04,967	5522	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-12 18:17:07,619	8174	pages.Login	[main]	insert user
+INFO	2019-07-12 18:17:07,906	8461	pages.Login	[main]	insert passs
+INFO	2019-07-12 18:17:07,994	8549	pages.Login	[main]	insert click login
+INFO	2019-07-12 18:17:13,262	13817	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-12 18:17:28,658	29213	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-07-12 18:17:28,804	29359	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-07-12 18:17:28,804	29359	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-07-15 10:57:56,921	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-15 10:58:03,770	6849	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-15 10:58:06,437	9516	pages.Login	[main]	insert user
+INFO	2019-07-15 10:58:06,819	9898	pages.Login	[main]	insert passs
+INFO	2019-07-15 10:58:06,917	9996	pages.Login	[main]	insert click login
+INFO	2019-07-15 10:58:12,193	15272	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-15 10:58:27,575	30654	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-07-15 10:58:27,723	30802	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-07-15 10:58:27,724	30803	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-07-15 12:06:06,138	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-15 12:07:04,982	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-15 12:07:13,215	8233	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-15 12:07:15,952	10970	pages.Login	[main]	insert user
+INFO	2019-07-15 12:07:21,282	16300	pages.Login	[main]	insert passs
+INFO	2019-07-15 12:07:26,473	21491	pages.Login	[main]	insert click login
+INFO	2019-07-15 12:07:31,780	26798	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-15 12:07:47,169	42187	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-07-15 12:07:47,302	42320	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-07-15 12:07:47,302	42320	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-07-15 13:18:08,928	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-07-15 13:18:15,902	6974	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-07-15 13:18:18,629	9701	pages.Login	[main]	insert user
+INFO	2019-07-15 13:18:24,052	15124	pages.Login	[main]	insert passs
+INFO	2019-07-15 13:18:29,222	20294	pages.Login	[main]	insert click login
+INFO	2019-07-15 13:18:34,538	25610	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-07-15 13:18:49,905	40977	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-07-15 13:18:50,053	41125	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-07-15 13:18:50,053	41125	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-05 13:00:27,202	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 13:00:32,666	5464	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-05 13:00:35,303	8101	pages.Login	[main]	insert user
+INFO	2019-12-05 13:00:40,607	13405	pages.Login	[main]	insert passs
+INFO	2019-12-05 13:00:45,782	18580	pages.Login	[main]	insert click login
+INFO	2019-12-05 13:03:51,515	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 13:03:57,359	5844	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-05 13:03:59,995	8480	pages.Login	[main]	insert user
+INFO	2019-12-05 13:04:05,276	13761	pages.Login	[main]	insert passs
+INFO	2019-12-05 13:04:10,433	18918	pages.Login	[main]	insert click login
+INFO	2019-12-05 13:04:15,743	24228	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-05 13:04:31,109	39594	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-05 13:04:31,264	39749	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-05 13:04:31,264	39749	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-05 13:05:54,557	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 13:05:59,532	4975	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-05 13:05:59,828	5271	pages.Login	[main]	insert user
+INFO	2019-12-05 13:06:05,499	10942	pages.Login	[main]	insert passs
+INFO	2019-12-05 13:06:10,769	16212	pages.Login	[main]	insert click login
+INFO	2019-12-05 13:06:17,050	22493	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-05 13:06:32,266	37709	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-05 13:06:32,344	37787	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-05 13:06:32,344	37787	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-05 13:23:11,928	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 13:28:50,167	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:03:54,778	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:12:38,121	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:12:44,080	5959	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-05 16:12:44,302	6181	pages.Login	[main]	insert user
+INFO	2019-12-05 16:12:49,894	11773	pages.Login	[main]	insert passs
+INFO	2019-12-05 16:12:55,137	17016	pages.Login	[main]	insert click login
+INFO	2019-12-05 16:13:01,472	23351	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-05 16:13:16,689	38568	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-05 16:13:16,795	38674	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-05 16:13:16,795	38674	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-05 16:14:48,454	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:26:51,373	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:27:33,842	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:29:00,523	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:29:06,167	5644	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-05 16:29:08,384	7861	pages.Login	[main]	insert user
+INFO	2019-12-05 16:29:13,685	13162	pages.Login	[main]	insert passs
+INFO	2019-12-05 16:29:18,814	18291	pages.Login	[main]	insert click login
+INFO	2019-12-05 16:29:24,144	23621	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-05 16:29:39,507	38984	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-05 16:29:39,632	39109	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-05 16:29:39,632	39109	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-05 16:31:30,406	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:37:01,916	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:37:48,701	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:38:46,143	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:41:06,602	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:41:50,803	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:42:35,513	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:44:28,904	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:49:53,174	1	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:52:57,748	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:53:03,947	6199	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-05 16:53:06,736	8988	pages.Login	[main]	insert user
+INFO	2019-12-05 16:53:12,102	14354	pages.Login	[main]	insert passs
+INFO	2019-12-05 16:53:17,256	19508	pages.Login	[main]	insert click login
+INFO	2019-12-05 16:53:22,563	24815	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-05 16:53:37,970	40222	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-05 16:53:38,063	40315	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-05 16:53:38,063	40315	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-05 16:54:54,358	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:55:01,859	7501	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-05 16:55:02,075	7717	pages.Login	[main]	insert user
+INFO	2019-12-05 16:55:37,778	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 16:59:10,573	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 17:00:09,125	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 17:03:53,537	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 17:05:25,555	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 17:08:38,440	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 17:17:32,747	1	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 17:20:24,958	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 19:56:59,323	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 19:57:56,710	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 20:01:15,701	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 20:04:35,854	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 20:07:24,249	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 20:07:57,018	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 20:08:07,769	10751	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-05 20:15:00,124	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 20:15:46,357	46233	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-05 20:34:17,872	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-05 20:34:30,528	12656	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-05 20:49:08,595	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 13:00:49,447	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 13:00:59,355	9908	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 13:01:03,233	13786	pages.Login	[main]	insert user
+INFO	2019-12-10 13:01:09,958	20511	pages.Login	[main]	insert passs
+INFO	2019-12-10 13:01:15,834	26387	pages.Login	[main]	insert click login
+INFO	2019-12-10 13:01:22,879	33432	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 13:01:38,719	49272	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 13:01:39,178	49731	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 13:01:39,178	49731	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 13:09:32,451	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 13:09:42,127	9676	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 13:09:45,719	13268	pages.Login	[main]	insert user
+INFO	2019-12-10 13:09:51,870	19419	pages.Login	[main]	insert passs
+INFO	2019-12-10 13:09:57,810	25359	pages.Login	[main]	insert click login
+INFO	2019-12-10 13:10:05,224	32773	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 13:10:21,046	48595	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 13:10:21,508	49057	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 13:10:21,509	49058	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 13:35:03,806	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 13:35:13,327	9521	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 13:35:18,998	15192	pages.Login	[main]	insert user
+INFO	2019-12-10 13:35:25,120	21314	pages.Login	[main]	insert passs
+INFO	2019-12-10 13:35:30,925	27119	pages.Login	[main]	insert click login
+INFO	2019-12-10 13:35:40,971	37165	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 13:35:56,874	53068	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 13:35:57,320	53514	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 13:35:57,322	53516	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 13:36:02,968	59162	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 13:38:05,853	1	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 13:38:12,090	6238	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 13:38:14,297	8445	pages.Login	[main]	insert user
+INFO	2019-12-10 13:38:19,667	13815	pages.Login	[main]	insert passs
+INFO	2019-12-10 13:38:24,842	18990	pages.Login	[main]	insert click login
+INFO	2019-12-10 13:38:30,137	24285	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 13:38:45,463	39611	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 13:38:45,615	39763	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 13:38:45,615	39763	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 13:38:50,926	45074	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 13:41:35,882	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 13:41:47,196	11314	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 13:41:49,367	13485	pages.Login	[main]	insert user
+INFO	2019-12-10 13:41:54,682	18800	pages.Login	[main]	insert passs
+INFO	2019-12-10 13:41:59,832	23950	pages.Login	[main]	insert click login
+INFO	2019-12-10 13:42:05,144	29262	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 13:42:20,514	44632	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 13:42:20,639	44757	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 13:42:20,639	44757	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 13:42:25,918	50036	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 13:45:29,926	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 13:45:36,829	6903	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 13:45:39,034	9108	pages.Login	[main]	insert user
+INFO	2019-12-10 13:45:44,355	14429	pages.Login	[main]	insert passs
+INFO	2019-12-10 13:45:49,556	19630	pages.Login	[main]	insert click login
+INFO	2019-12-10 13:45:54,884	24958	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 13:46:10,267	40341	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 13:46:10,396	40470	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 13:46:10,396	40470	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 13:46:15,697	45771	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 13:49:39,863	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 13:49:45,625	5762	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 13:49:47,845	7982	pages.Login	[main]	insert user
+INFO	2019-12-10 13:49:53,157	13294	pages.Login	[main]	insert passs
+INFO	2019-12-10 13:49:58,325	18462	pages.Login	[main]	insert click login
+INFO	2019-12-10 13:50:03,626	23763	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 13:50:19,006	39143	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 13:50:19,116	39253	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 13:50:19,117	39254	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 13:50:24,403	44540	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 13:58:09,542	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 13:58:14,941	5399	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 13:58:17,185	7643	pages.Login	[main]	insert user
+INFO	2019-12-10 13:58:22,507	12965	pages.Login	[main]	insert passs
+INFO	2019-12-10 13:58:27,701	18159	pages.Login	[main]	insert click login
+INFO	2019-12-10 13:58:32,994	23452	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 13:58:48,361	38819	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 13:58:48,527	38985	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 13:58:48,527	38985	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 13:58:53,831	44289	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 13:59:04,421	54879	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:00:34,315	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 14:00:39,889	5574	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 14:00:41,525	7210	pages.Login	[main]	insert user
+INFO	2019-12-10 14:00:46,847	12532	pages.Login	[main]	insert passs
+INFO	2019-12-10 14:00:52,012	17697	pages.Login	[main]	insert click login
+INFO	2019-12-10 14:00:57,321	23006	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 14:01:12,725	38410	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 14:01:12,889	38574	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 14:01:12,889	38574	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 14:01:18,175	43860	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:01:28,756	54441	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:01:39,135	64820	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:01:49,532	75217	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:01:59,948	85633	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:04:16,071	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 14:04:21,688	5617	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 14:04:23,934	7863	pages.Login	[main]	insert user
+INFO	2019-12-10 14:04:29,244	13173	pages.Login	[main]	insert passs
+INFO	2019-12-10 14:04:34,448	18377	pages.Login	[main]	insert click login
+INFO	2019-12-10 14:04:39,754	23683	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 14:04:55,111	39040	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 14:04:55,234	39163	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 14:04:55,235	39164	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 14:05:00,514	44443	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:05:11,171	55100	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:05:21,547	65476	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:05:31,913	75842	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:08:28,999	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 14:08:34,664	5665	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 14:08:36,439	7440	pages.Login	[main]	insert user
+INFO	2019-12-10 14:08:41,795	12796	pages.Login	[main]	insert passs
+INFO	2019-12-10 14:08:46,976	17977	pages.Login	[main]	insert click login
+INFO	2019-12-10 14:08:52,296	23297	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 14:09:07,644	38645	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 14:09:07,787	38788	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 14:09:07,788	38789	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 14:09:13,082	44083	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2019-12-10 14:09:44,763	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 14:09:50,112	5349	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 14:09:51,869	7106	pages.Login	[main]	insert user
+INFO	2019-12-10 14:09:57,194	12431	pages.Login	[main]	insert passs
+INFO	2019-12-10 14:10:02,363	17600	pages.Login	[main]	insert click login
+INFO	2019-12-10 14:10:07,670	22907	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 14:10:23,065	38302	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 14:10:23,185	38422	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 14:10:23,185	38422	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 14:10:28,499	43736	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:10:39,107	54344	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2019-12-10 14:10:49,450	64687	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2019-12-10 14:10:59,813	75050	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2019-12-10 14:11:10,276	85513	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2019-12-10 14:14:19,165	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-10 14:14:25,519	6354	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-10 14:14:27,687	8522	pages.Login	[main]	insert user
+INFO	2019-12-10 14:14:33,006	13841	pages.Login	[main]	insert passs
+INFO	2019-12-10 14:14:38,156	18991	pages.Login	[main]	insert click login
+INFO	2019-12-10 14:14:43,489	24324	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-10 14:14:58,865	39700	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-10 14:14:59,019	39854	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-10 14:14:59,019	39854	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-10 14:15:04,326	45161	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-10 14:15:14,919	55754	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2019-12-10 14:15:25,285	66120	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2019-12-10 14:15:35,643	76478	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2019-12-10 14:15:46,081	86916	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2019-12-11 12:14:02,110	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 12:14:08,303	6193	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 12:14:10,967	8857	pages.Login	[main]	insert user
+INFO	2019-12-11 12:14:16,266	14156	pages.Login	[main]	insert passs
+INFO	2019-12-11 12:14:21,422	19312	pages.Login	[main]	insert click login
+INFO	2019-12-11 12:14:26,732	24622	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 12:14:42,100	39990	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 12:14:42,251	40141	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:14:42,251	40141	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 12:14:47,533	45423	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-11 12:14:58,252	56142	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:14:58,252	56142	DE.TestFlowDE1	[main]	Perform querry for 1 week
+INFO	2019-12-11 12:15:03,252	61142	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2019-12-11 12:15:13,730	71620	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:15:13,730	71620	DE.TestFlowDE1	[main]	Perform querry for 2 weeks
+INFO	2019-12-11 12:15:18,731	76621	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2019-12-11 12:15:29,390	87280	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:15:29,391	87281	DE.TestFlowDE1	[main]	Perform querry for 4 weeks
+INFO	2019-12-11 12:15:34,391	92281	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2019-12-11 12:15:44,890	102780	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:15:44,890	102780	DE.TestFlowDE1	[main]	Perform querry for 12 weeks
+INFO	2019-12-11 12:15:49,890	107780	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2019-12-11 12:16:00,094	117984	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:16:00,095	117985	DE.TestFlowDE1	[main]	Perform querry for 2 years
+INFO	2019-12-11 12:23:17,068	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 12:23:24,687	7619	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 12:23:27,411	10343	pages.Login	[main]	insert user
+INFO	2019-12-11 12:23:32,717	15649	pages.Login	[main]	insert passs
+INFO	2019-12-11 12:23:37,893	20825	pages.Login	[main]	insert click login
+INFO	2019-12-11 12:23:43,204	26136	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 12:23:58,599	41531	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 12:23:58,691	41623	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:23:58,691	41623	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 12:24:03,970	46902	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-11 12:24:14,709	57641	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:24:14,710	57642	DE.TestFlowDE1	[main]	Perform querry for 1 week
+INFO	2019-12-11 12:24:19,710	62642	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2019-12-11 12:24:30,172	73104	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:24:30,172	73104	DE.TestFlowDE1	[main]	Perform querry for 2 weeks
+INFO	2019-12-11 12:24:35,173	78105	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2019-12-11 12:24:45,705	88637	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:24:45,705	88637	DE.TestFlowDE1	[main]	Perform querry for 4 weeks
+INFO	2019-12-11 12:24:50,706	93638	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2019-12-11 12:25:01,209	104141	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:25:01,209	104141	DE.TestFlowDE1	[main]	Perform querry for 12 weeks
+INFO	2019-12-11 12:25:06,210	109142	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2019-12-11 12:25:16,411	119343	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 12:25:16,412	119344	DE.TestFlowDE1	[main]	Perform querry for 2 years
+INFO	2019-12-11 14:26:45,210	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 14:26:53,245	8035	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 14:26:55,526	10316	pages.Login	[main]	insert user
+INFO	2019-12-11 14:27:00,839	15629	pages.Login	[main]	insert passs
+INFO	2019-12-11 14:27:06,004	20794	pages.Login	[main]	insert click login
+INFO	2019-12-11 14:27:11,314	26104	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 14:27:26,697	41487	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 14:27:26,839	41629	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:27:26,839	41629	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 14:27:32,396	47186	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-11 14:27:43,126	57916	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:27:43,126	57916	DE.TestFlowDE1	[main]	Perform querry for 1 week
+INFO	2019-12-11 14:27:48,126	62916	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2019-12-11 14:27:58,572	73362	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:27:58,573	73363	DE.TestFlowDE1	[main]	Perform querry for 2 weeks
+INFO	2019-12-11 14:28:03,573	78363	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2019-12-11 14:28:14,078	88868	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:28:14,078	88868	DE.TestFlowDE1	[main]	Perform querry for 4 weeks
+INFO	2019-12-11 14:28:19,078	93868	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2019-12-11 14:28:29,586	104376	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:28:29,587	104377	DE.TestFlowDE1	[main]	Perform querry for 12 weeks
+INFO	2019-12-11 14:28:34,587	109377	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2019-12-11 14:28:44,837	119627	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:28:44,837	119627	DE.TestFlowDE1	[main]	Perform querry for 2 years
+INFO	2019-12-11 14:31:04,947	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 14:31:10,893	5946	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 14:31:13,150	8203	pages.Login	[main]	insert user
+INFO	2019-12-11 14:31:18,451	13504	pages.Login	[main]	insert passs
+INFO	2019-12-11 14:31:23,684	18737	pages.Login	[main]	insert click login
+INFO	2019-12-11 14:31:29,055	24108	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 14:31:44,421	39474	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 14:31:44,571	39624	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:31:44,571	39624	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 14:31:50,140	45193	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-11 14:32:06,006	61059	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2019-12-11 14:32:21,622	76675	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2019-12-11 14:32:37,332	92385	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2019-12-11 14:32:52,993	108046	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2019-12-11 14:48:15,661	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 14:48:24,019	8358	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 14:48:26,696	11035	pages.Login	[main]	insert user
+INFO	2019-12-11 14:48:31,999	16338	pages.Login	[main]	insert passs
+INFO	2019-12-11 14:48:37,245	21584	pages.Login	[main]	insert click login
+INFO	2019-12-11 14:48:42,585	26924	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 14:48:57,959	42298	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 14:48:58,065	42404	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:48:58,065	42404	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 14:49:03,578	47917	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-11 14:50:25,097	1	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 14:50:31,360	6264	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 14:50:33,543	8447	pages.Login	[main]	insert user
+INFO	2019-12-11 14:50:38,867	13771	pages.Login	[main]	insert passs
+INFO	2019-12-11 14:50:44,033	18937	pages.Login	[main]	insert click login
+INFO	2019-12-11 14:50:49,348	24252	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 14:51:04,729	39633	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 14:51:04,865	39769	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:51:04,865	39769	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 14:51:10,409	45313	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-11 14:53:42,396	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 14:53:50,600	8204	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 14:53:53,210	10814	pages.Login	[main]	insert user
+INFO	2019-12-11 14:53:58,620	16224	pages.Login	[main]	insert passs
+INFO	2019-12-11 14:54:03,843	21447	pages.Login	[main]	insert click login
+INFO	2019-12-11 14:54:09,175	26779	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 14:54:24,583	42187	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 14:54:24,688	42292	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:54:24,688	42292	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 14:54:30,273	47877	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-11 14:59:14,061	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 14:59:21,421	7360	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 14:59:24,116	10055	pages.Login	[main]	insert user
+INFO	2019-12-11 14:59:29,440	15379	pages.Login	[main]	insert passs
+INFO	2019-12-11 14:59:34,595	20534	pages.Login	[main]	insert click login
+INFO	2019-12-11 14:59:39,923	25862	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 14:59:55,400	41339	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 14:59:55,579	41518	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 14:59:55,579	41518	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 15:00:01,169	47108	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-11 15:00:41,966	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 15:00:50,155	8189	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 15:00:52,943	10977	pages.Login	[main]	insert user
+INFO	2019-12-11 15:00:58,457	16491	pages.Login	[main]	insert passs
+INFO	2019-12-11 15:01:03,680	21714	pages.Login	[main]	insert click login
+INFO	2019-12-11 15:01:09,043	27077	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 15:01:24,418	42452	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 15:01:24,557	42591	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 15:01:24,557	42591	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 15:01:30,097	48131	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-11 15:04:23,459	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 15:04:31,895	8436	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 15:04:34,342	10883	pages.Login	[main]	insert user
+INFO	2019-12-11 15:04:39,658	16199	pages.Login	[main]	insert passs
+INFO	2019-12-11 15:04:44,824	21365	pages.Login	[main]	insert click login
+INFO	2019-12-11 15:04:50,129	26670	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 15:05:05,502	42043	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 15:05:05,628	42169	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 15:05:05,628	42169	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 15:05:11,166	47707	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-11 15:07:46,045	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-11 15:07:53,754	7709	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-11 15:07:56,431	10386	pages.Login	[main]	insert user
+INFO	2019-12-11 15:08:01,732	15687	pages.Login	[main]	insert passs
+INFO	2019-12-11 15:08:06,899	20854	pages.Login	[main]	insert click login
+INFO	2019-12-11 15:08:12,212	26167	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-11 15:08:27,573	41528	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-11 15:08:27,745	41700	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-11 15:08:27,745	41700	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-11 15:08:33,288	47243	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-16 11:53:25,679	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-16 11:53:32,134	6455	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-16 11:53:34,517	8838	pages.Login	[main]	insert user
+INFO	2019-12-16 11:53:39,801	14122	pages.Login	[main]	insert passs
+INFO	2019-12-16 11:53:44,973	19294	pages.Login	[main]	insert click login
+INFO	2019-12-16 11:53:50,272	24593	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-16 11:54:05,617	39938	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-16 11:54:05,744	40065	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-16 11:54:05,744	40065	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-16 11:54:11,277	45598	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2019-12-16 11:54:21,346	55667	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-16 11:54:37,212	71533	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2019-12-16 11:54:52,878	87199	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2019-12-16 11:55:08,521	102842	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2019-12-16 11:55:24,166	118487	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2019-12-16 11:57:00,383	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-16 11:57:05,725	5342	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-16 11:57:07,368	6985	pages.Login	[main]	insert user
+INFO	2019-12-16 11:57:12,673	12290	pages.Login	[main]	insert passs
+INFO	2019-12-16 11:57:17,847	17464	pages.Login	[main]	insert click login
+INFO	2019-12-16 11:57:23,159	22776	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-16 11:57:38,502	38119	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-16 11:57:38,637	38254	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-16 11:57:38,637	38254	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-16 11:57:44,194	43811	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2019-12-16 13:02:35,677	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-16 13:02:43,677	8000	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-16 13:02:45,927	10250	pages.Login	[main]	insert user
+INFO	2019-12-16 13:02:51,235	15558	pages.Login	[main]	insert passs
+INFO	2019-12-16 13:02:56,413	20736	pages.Login	[main]	insert click login
+INFO	2019-12-16 13:03:01,719	26042	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-16 13:03:17,077	41400	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-16 13:03:17,225	41548	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-16 13:03:17,226	41549	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-16 13:03:22,755	47078	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2019-12-16 13:04:37,450	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-16 13:04:48,155	10705	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-16 13:04:50,402	12952	pages.Login	[main]	insert user
+INFO	2019-12-16 13:04:55,701	18251	pages.Login	[main]	insert passs
+INFO	2019-12-16 13:05:00,897	23447	pages.Login	[main]	insert click login
+INFO	2019-12-16 13:05:08,884	31434	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-16 13:05:09,166	31716	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2019-12-16 13:07:30,303	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-16 13:07:35,569	5266	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-16 13:07:37,773	7470	pages.Login	[main]	insert user
+INFO	2019-12-16 13:07:43,057	12754	pages.Login	[main]	insert passs
+INFO	2019-12-16 13:07:48,230	17927	pages.Login	[main]	insert click login
+INFO	2019-12-16 13:07:53,538	23235	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-16 13:07:53,837	23534	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2019-12-16 13:09:19,523	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-16 13:09:25,599	6076	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-16 13:09:27,714	8191	pages.Login	[main]	insert user
+INFO	2019-12-16 13:09:33,017	13494	pages.Login	[main]	insert passs
+INFO	2019-12-16 13:09:38,201	18678	pages.Login	[main]	insert click login
+INFO	2019-12-16 13:09:43,515	23992	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-16 13:10:03,535	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-16 13:10:10,263	6728	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-16 13:10:12,482	8947	pages.Login	[main]	insert user
+INFO	2019-12-16 13:10:17,773	14238	pages.Login	[main]	insert passs
+INFO	2019-12-16 13:10:22,919	19384	pages.Login	[main]	insert click login
+INFO	2019-12-16 13:10:28,236	24701	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-16 13:10:28,581	25046	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2019-12-16 13:11:05,088	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-16 13:11:10,962	5874	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-16 13:11:13,126	8038	pages.Login	[main]	insert user
+INFO	2019-12-16 13:11:18,409	13321	pages.Login	[main]	insert passs
+INFO	2019-12-16 13:11:23,579	18491	pages.Login	[main]	insert click login
+INFO	2019-12-16 13:11:28,888	23800	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-16 13:11:29,175	24087	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2019-12-16 13:12:22,009	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-16 13:12:28,145	6136	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-16 13:12:30,333	8324	pages.Login	[main]	insert user
+INFO	2019-12-16 13:12:35,631	13622	pages.Login	[main]	insert passs
+INFO	2019-12-16 13:12:40,768	18759	pages.Login	[main]	insert click login
+INFO	2019-12-16 13:12:46,059	24050	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-16 13:13:01,417	39408	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-16 13:13:01,561	39552	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-16 13:13:01,562	39553	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-16 13:13:07,111	45102	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2019-12-16 13:13:21,344	59335	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-16 13:13:37,194	75185	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2019-12-16 13:13:52,952	90943	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2019-12-16 13:14:08,675	106666	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2019-12-16 13:14:24,317	122308	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2019-12-16 18:02:39,513	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-16 18:03:09,950	30437	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-16 18:03:14,394	34881	pages.Login	[main]	insert user
+INFO	2019-12-16 18:03:20,432	40919	pages.Login	[main]	insert passs
+INFO	2019-12-16 18:03:26,244	46731	pages.Login	[main]	insert click login
+INFO	2019-12-16 18:03:38,633	59120	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-16 18:03:54,451	74938	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-16 18:03:54,933	75420	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-16 18:03:54,935	75422	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-16 18:04:01,222	81709	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2019-12-16 18:04:16,745	97232	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-16 18:04:33,378	113865	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2019-12-16 18:04:49,665	130152	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2019-12-16 18:05:06,018	146505	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2019-12-16 18:05:22,355	162842	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2019-12-17 14:57:26,223	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2019-12-17 14:57:37,240	11017	DE.TestFlowDE1	[main]	end start load data 
+INFO	2019-12-17 14:57:40,990	14767	pages.Login	[main]	insert user
+INFO	2019-12-17 14:57:47,160	20937	pages.Login	[main]	insert passs
+INFO	2019-12-17 14:57:52,919	26696	pages.Login	[main]	insert click login
+INFO	2019-12-17 14:57:59,651	33428	DE.TestFlowDE1	[main]	login succesfully
+INFO	2019-12-17 14:58:15,454	49231	DE.TestFlowDE1	[main]	check the button querry
+INFO	2019-12-17 14:58:15,879	49656	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2019-12-17 14:58:15,880	49657	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2019-12-17 14:58:22,051	55828	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2019-12-17 14:58:37,520	71297	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2019-12-17 14:58:54,166	87943	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2019-12-17 14:59:10,500	104277	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2019-12-17 14:59:26,856	120633	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2019-12-17 14:59:43,341	137118	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-06 16:23:59,533	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 16:24:10,819	11286	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 16:24:15,673	16140	pages.Login	[main]	insert user
+INFO	2020-01-06 16:24:21,745	22212	pages.Login	[main]	insert passs
+INFO	2020-01-06 16:24:27,629	28096	pages.Login	[main]	insert click login
+INFO	2020-01-06 16:24:38,930	39397	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 16:24:54,644	55111	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 16:24:55,065	55532	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 16:24:55,066	55533	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 16:25:01,293	61760	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-06 16:25:16,691	77158	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-06 16:25:33,253	93720	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-06 16:25:49,538	110005	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-06 16:26:06,031	126498	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-06 16:26:22,531	142998	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-06 16:39:40,261	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 16:39:47,749	7488	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 16:39:50,176	9915	pages.Login	[main]	insert user
+INFO	2020-01-06 16:39:55,685	15424	pages.Login	[main]	insert passs
+INFO	2020-01-06 16:40:00,970	20709	pages.Login	[main]	insert click login
+INFO	2020-01-06 16:40:06,354	26093	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 16:40:21,756	41495	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 16:40:21,949	41688	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 16:40:21,950	41689	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 16:40:27,582	47321	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-06 16:40:41,910	61649	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-06 16:40:57,771	77510	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-06 16:41:13,661	93400	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-06 16:41:29,600	109339	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-06 16:41:45,447	125186	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-06 17:15:20,110	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:15:26,992	6882	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:15:29,187	9077	pages.Login	[main]	insert user
+INFO	2020-01-06 17:15:34,770	14660	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:15:40,019	19909	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:15:45,406	25296	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:16:00,808	40698	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:16:00,988	40878	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:16:00,988	40878	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 17:16:06,593	46483	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-06 17:16:20,977	60867	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-06 17:16:36,978	76868	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-06 17:16:52,944	92834	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-06 17:17:08,929	108819	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-06 17:17:24,640	124530	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-06 17:26:39,369	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:26:46,432	7063	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:26:48,595	9226	pages.Login	[main]	insert user
+INFO	2020-01-06 17:26:53,929	14560	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:26:59,190	19821	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:27:04,531	25162	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:27:20,025	40656	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:27:20,131	40762	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:27:20,131	40762	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 17:31:35,156	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:31:41,961	6805	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:31:44,139	8983	pages.Login	[main]	insert user
+INFO	2020-01-06 17:31:49,446	14290	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:31:54,581	19425	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:31:59,885	24729	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:32:15,267	40111	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:32:15,391	40235	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:32:15,391	40235	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 17:33:55,012	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:34:01,751	6739	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:34:03,886	8874	pages.Login	[main]	insert user
+INFO	2020-01-06 17:34:09,204	14192	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:34:14,383	19371	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:34:19,689	24677	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:34:35,011	39999	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:34:35,145	40133	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:34:35,146	40134	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 17:38:13,379	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:38:20,386	7007	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:38:22,678	9299	pages.Login	[main]	insert user
+INFO	2020-01-06 17:38:28,069	14690	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:38:33,247	19868	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:38:38,574	25195	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:38:53,940	40561	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:38:54,078	40699	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:38:54,078	40699	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 17:41:28,032	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:41:34,719	6687	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:41:36,928	8896	pages.Login	[main]	insert user
+INFO	2020-01-06 17:41:42,220	14188	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:41:47,393	19361	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:41:52,692	24660	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:42:08,039	40007	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:42:08,198	40166	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:42:08,198	40166	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 17:43:08,429	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:43:14,796	6367	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:43:16,920	8491	pages.Login	[main]	insert user
+INFO	2020-01-06 17:43:22,212	13783	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:43:27,443	19014	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:43:32,753	24324	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:43:48,126	39697	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:43:48,264	39835	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:43:48,265	39836	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 17:45:10,138	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:45:16,536	6398	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:45:18,704	8566	pages.Login	[main]	insert user
+INFO	2020-01-06 17:45:23,988	13850	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:45:29,158	19020	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:45:34,514	24376	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:45:49,871	39733	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:45:50,008	39870	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:45:50,009	39871	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 17:50:05,024	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:50:11,462	6438	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:50:13,121	8097	pages.Login	[main]	insert user
+INFO	2020-01-06 17:50:18,418	13394	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:50:23,586	18562	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:50:28,996	23972	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:50:44,340	39316	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:50:44,471	39447	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:50:44,471	39447	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 17:54:01,517	1	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:54:07,518	6002	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:54:09,640	8124	pages.Login	[main]	insert user
+INFO	2020-01-06 17:54:14,923	13407	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:54:20,096	18580	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:54:25,400	23884	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:54:40,792	39276	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:54:40,922	39406	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:54:40,922	39406	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 17:55:34,893	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 17:55:41,079	6186	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 17:55:43,277	8384	pages.Login	[main]	insert user
+INFO	2020-01-06 17:55:48,582	13689	pages.Login	[main]	insert passs
+INFO	2020-01-06 17:55:53,747	18854	pages.Login	[main]	insert click login
+INFO	2020-01-06 17:55:59,044	24151	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 17:56:14,409	39516	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 17:56:14,569	39676	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 17:56:14,570	39677	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 18:25:09,949	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 18:25:17,597	7648	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 18:25:19,834	9885	pages.Login	[main]	insert user
+INFO	2020-01-06 18:25:25,335	15386	pages.Login	[main]	insert passs
+INFO	2020-01-06 18:25:30,578	20629	pages.Login	[main]	insert click login
+INFO	2020-01-06 18:25:36,001	26052	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 18:25:51,355	41406	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 18:25:51,471	41522	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 18:25:51,471	41522	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 18:27:25,802	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 18:27:32,240	6438	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 18:27:34,363	8561	pages.Login	[main]	insert user
+INFO	2020-01-06 18:27:39,652	13850	pages.Login	[main]	insert passs
+INFO	2020-01-06 18:27:44,815	19013	pages.Login	[main]	insert click login
+INFO	2020-01-06 18:27:50,127	24325	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 18:28:05,488	39686	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 18:28:05,639	39837	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 18:28:05,639	39837	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 18:29:21,828	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 18:29:28,455	6627	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 18:29:30,669	8841	pages.Login	[main]	insert user
+INFO	2020-01-06 18:29:35,961	14133	pages.Login	[main]	insert passs
+INFO	2020-01-06 18:29:41,163	19335	pages.Login	[main]	insert click login
+INFO	2020-01-06 18:29:46,516	24688	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 18:30:01,910	40082	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 18:30:02,083	40255	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 18:30:02,083	40255	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 18:40:45,917	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 18:40:54,712	8795	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 18:40:57,067	11150	pages.Login	[main]	insert user
+INFO	2020-01-06 18:41:02,382	16465	pages.Login	[main]	insert passs
+INFO	2020-01-06 18:41:07,697	21780	pages.Login	[main]	insert click login
+INFO	2020-01-06 18:41:13,012	27095	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 18:41:28,374	42457	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 18:41:28,492	42575	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 18:41:28,492	42575	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 18:42:06,413	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 18:42:14,853	8440	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 18:42:17,610	11197	pages.Login	[main]	insert user
+INFO	2020-01-06 18:42:22,899	16486	pages.Login	[main]	insert passs
+INFO	2020-01-06 18:42:28,065	21652	pages.Login	[main]	insert click login
+INFO	2020-01-06 18:42:33,359	26946	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 18:42:48,697	42284	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 18:42:48,819	42406	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 18:42:48,820	42407	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 18:43:49,583	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 18:43:57,974	8391	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 18:44:00,190	10607	pages.Login	[main]	insert user
+INFO	2020-01-06 18:44:05,491	15908	pages.Login	[main]	insert passs
+INFO	2020-01-06 18:44:10,654	21071	pages.Login	[main]	insert click login
+INFO	2020-01-06 18:44:15,934	26351	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 18:44:31,304	41721	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 18:44:31,445	41862	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 18:44:31,446	41863	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 18:45:33,827	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 18:45:42,312	8485	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 18:45:44,491	10664	pages.Login	[main]	insert user
+INFO	2020-01-06 18:45:49,894	16067	pages.Login	[main]	insert passs
+INFO	2020-01-06 18:45:55,053	21226	pages.Login	[main]	insert click login
+INFO	2020-01-06 18:46:00,368	26541	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 18:48:04,566	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 18:48:12,920	8354	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 18:48:15,642	11076	pages.Login	[main]	insert user
+INFO	2020-01-06 18:48:21,108	16542	pages.Login	[main]	insert passs
+INFO	2020-01-06 18:48:26,383	21817	pages.Login	[main]	insert click login
+INFO	2020-01-06 18:48:31,714	27148	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 18:48:47,080	42514	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 18:48:47,246	42680	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 18:48:47,246	42680	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 18:48:52,806	48240	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-06 18:49:07,059	62493	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-06 18:49:22,984	78418	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-06 18:49:38,667	94101	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-06 18:49:54,305	109739	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-06 18:50:09,992	125426	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-06 18:52:37,964	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 18:52:47,065	9101	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 18:52:49,470	11506	pages.Login	[main]	insert user
+INFO	2020-01-06 18:52:50,781	12817	pages.Login	[main]	insert passs
+INFO	2020-01-06 18:52:51,912	13948	pages.Login	[main]	insert click login
+INFO	2020-01-06 18:52:53,252	15288	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 18:53:04,607	26643	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 18:53:04,850	26886	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 18:53:04,850	26886	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 18:53:10,460	32496	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-06 18:53:24,760	46796	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-06 18:53:32,563	54599	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-06 18:53:40,218	62254	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-06 18:53:47,842	69878	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-06 18:53:55,464	77500	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-06 19:24:01,438	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 19:24:10,790	9352	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 19:24:13,042	11604	pages.Login	[main]	insert user
+INFO	2020-01-06 19:24:14,368	12930	pages.Login	[main]	insert passs
+INFO	2020-01-06 19:24:15,556	14118	pages.Login	[main]	insert click login
+INFO	2020-01-06 19:24:16,901	15463	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 19:24:28,425	26987	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 19:24:28,603	27165	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 19:24:28,603	27165	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 19:24:34,166	32728	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-06 19:24:48,681	47243	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-06 19:24:56,828	55390	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-06 19:25:04,667	63229	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-06 19:25:12,430	70992	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-06 19:25:20,233	78795	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-06 19:29:39,633	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-06 19:29:47,826	8193	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-06 19:29:50,011	10378	pages.Login	[main]	insert user
+INFO	2020-01-06 19:29:51,371	11738	pages.Login	[main]	insert passs
+INFO	2020-01-06 19:29:52,599	12966	pages.Login	[main]	insert click login
+INFO	2020-01-06 19:29:53,984	14351	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-06 19:30:05,507	25874	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-06 19:30:05,680	26047	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-06 19:30:05,680	26047	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-06 19:30:11,270	31637	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-06 19:30:25,569	45936	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-06 19:30:33,663	54030	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-06 19:30:41,524	61891	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-06 19:30:49,454	69821	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-06 19:30:57,354	77721	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-08 13:13:31,184	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-08 13:13:37,860	6676	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-08 13:13:40,052	8868	pages.Login	[main]	insert user
+INFO	2020-01-08 13:13:41,369	10185	pages.Login	[main]	insert passs
+INFO	2020-01-08 13:13:42,496	11312	pages.Login	[main]	insert click login
+INFO	2020-01-08 13:15:06,662	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-08 13:15:14,102	7440	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-08 13:15:16,386	9724	pages.Login	[main]	insert user
+INFO	2020-01-08 13:15:17,848	11186	pages.Login	[main]	insert passs
+INFO	2020-01-08 13:15:18,956	12294	pages.Login	[main]	insert click login
+INFO	2020-01-08 13:15:20,255	13593	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-08 13:15:31,670	25008	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-08 13:15:31,833	25171	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-08 13:15:31,833	25171	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-08 13:15:37,359	30697	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-08 13:15:51,625	44963	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-08 13:15:59,412	52750	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-08 13:16:07,051	60389	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-08 13:16:14,839	68177	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-08 13:16:22,506	75844	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 15:49:02,771	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 15:49:09,001	6230	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 15:49:11,205	8434	pages.Login	[main]	insert user
+INFO	2020-01-09 16:16:03,213	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 16:16:12,557	9344	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 16:16:15,805	12592	pages.Login	[main]	insert user
+INFO	2020-01-09 16:16:18,010	14797	pages.Login	[main]	insert passs
+INFO	2020-01-09 16:16:20,098	16885	pages.Login	[main]	insert click login
+INFO	2020-01-09 16:16:30,895	27682	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 16:16:42,614	39401	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 16:16:43,088	39875	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 16:16:43,089	39876	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 16:16:49,181	45968	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 16:17:04,578	61365	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 16:17:13,226	70013	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 16:17:21,545	78332	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 16:17:30,156	86943	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 16:17:38,657	95444	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 16:20:52,559	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 16:21:02,142	9583	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 16:21:05,693	13134	pages.Login	[main]	insert user
+INFO	2020-01-09 16:21:07,745	15186	pages.Login	[main]	insert passs
+INFO	2020-01-09 16:21:09,635	17076	pages.Login	[main]	insert click login
+INFO	2020-01-09 16:21:18,483	25924	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 16:21:30,305	37746	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 16:21:30,756	38197	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 16:21:30,758	38199	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 16:21:36,936	44377	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 16:21:52,386	59827	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 16:22:01,040	68481	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 16:22:09,436	76877	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 16:22:17,912	85353	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 16:22:26,329	93770	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 16:26:13,964	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 16:26:22,594	8630	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 16:26:28,046	14082	pages.Login	[main]	insert user
+INFO	2020-01-09 16:26:30,327	16363	pages.Login	[main]	insert passs
+INFO	2020-01-09 16:26:32,112	18148	pages.Login	[main]	insert click login
+INFO	2020-01-09 16:26:40,481	26517	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 16:26:52,346	38382	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 16:26:52,791	38827	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 16:26:52,793	38829	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 16:26:59,463	45499	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 16:27:15,123	61159	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 16:27:23,832	69868	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 16:27:32,354	78390	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 16:27:40,786	86822	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 16:27:49,429	95465	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 16:28:42,704	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 16:28:51,498	8794	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 16:28:54,903	12199	pages.Login	[main]	insert user
+INFO	2020-01-09 16:28:57,029	14325	pages.Login	[main]	insert passs
+INFO	2020-01-09 16:28:59,021	16317	pages.Login	[main]	insert click login
+INFO	2020-01-09 16:29:04,832	22128	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 16:29:16,591	33887	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 16:29:17,048	34344	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 16:29:17,049	34345	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 16:29:23,216	40512	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 16:29:38,545	55841	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 16:29:47,097	64393	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 16:29:55,422	72718	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 16:30:03,840	81136	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 16:30:12,342	89638	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 17:42:01,844	1	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 17:42:11,687	9844	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 17:42:15,420	13577	pages.Login	[main]	insert user
+INFO	2020-01-09 17:42:17,456	15613	pages.Login	[main]	insert passs
+INFO	2020-01-09 17:42:19,298	17455	pages.Login	[main]	insert click login
+INFO	2020-01-09 17:42:25,059	23216	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 17:42:36,863	35020	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 17:42:37,260	35417	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 17:42:37,262	35419	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 17:42:43,462	41619	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 17:42:58,797	56954	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 17:43:07,298	65455	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 17:43:15,579	73736	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 17:43:23,999	82156	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 17:43:32,394	90551	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 18:26:54,369	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 18:27:04,094	9725	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 18:27:07,674	13305	pages.Login	[main]	insert user
+INFO	2020-01-09 18:27:09,864	15495	pages.Login	[main]	insert passs
+INFO	2020-01-09 18:27:11,916	17547	pages.Login	[main]	insert click login
+INFO	2020-01-09 18:27:17,780	23411	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 18:27:29,676	35307	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 18:27:30,098	35729	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 18:27:30,100	35731	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 18:27:36,372	42003	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 18:27:51,844	57475	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 18:28:00,421	66052	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 18:28:08,755	74386	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 18:28:17,130	82761	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 18:28:25,642	91273	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 18:30:00,319	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 18:30:09,553	9234	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 18:30:12,983	12664	pages.Login	[main]	insert user
+INFO	2020-01-09 18:30:15,016	14697	pages.Login	[main]	insert passs
+INFO	2020-01-09 18:30:16,861	16542	pages.Login	[main]	insert click login
+INFO	2020-01-09 18:30:22,650	22331	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 18:30:34,404	34085	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 18:30:34,827	34508	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 18:30:34,828	34509	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 18:30:41,014	40695	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 18:30:56,636	56317	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 18:32:24,435	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 18:32:33,916	9481	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 18:32:37,044	12609	pages.Login	[main]	insert user
+INFO	2020-01-09 18:32:39,469	15034	pages.Login	[main]	insert passs
+INFO	2020-01-09 18:32:41,321	16886	pages.Login	[main]	insert click login
+INFO	2020-01-09 18:32:47,174	22739	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 18:32:59,003	34568	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 18:32:59,400	34965	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 18:32:59,401	34966	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 18:33:05,548	41113	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 18:33:21,019	56584	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 18:33:29,592	65157	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 18:33:37,939	73504	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 18:33:46,399	81964	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 18:33:54,844	90409	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 18:35:04,256	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 18:35:13,160	8904	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 18:35:16,696	12440	pages.Login	[main]	insert user
+INFO	2020-01-09 18:35:18,844	14588	pages.Login	[main]	insert passs
+INFO	2020-01-09 18:35:20,928	16672	pages.Login	[main]	insert click login
+INFO	2020-01-09 18:35:26,888	22632	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 18:35:38,957	34701	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 18:35:39,373	35117	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 18:35:39,374	35118	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 18:35:45,521	41265	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 18:36:00,989	56733	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 18:36:09,766	65510	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 18:36:18,087	73831	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 18:36:26,492	82236	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 18:36:35,078	90822	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 18:42:13,941	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 18:42:22,799	8858	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 18:42:26,235	12294	pages.Login	[main]	insert user
+INFO	2020-01-09 18:42:28,424	14483	pages.Login	[main]	insert passs
+INFO	2020-01-09 18:42:30,316	16375	pages.Login	[main]	insert click login
+INFO	2020-01-09 18:42:36,158	22217	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 18:42:47,913	33972	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 18:42:48,329	34388	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 18:42:48,330	34389	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 18:42:54,591	40650	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 18:43:10,156	56215	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 18:43:18,825	64884	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 18:43:27,217	73276	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 18:43:35,540	81599	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 18:43:43,924	89983	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 18:57:37,776	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 18:57:48,992	11216	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 18:57:52,778	15002	pages.Login	[main]	insert user
+INFO	2020-01-09 18:57:54,880	17104	pages.Login	[main]	insert passs
+INFO	2020-01-09 18:57:56,619	18843	pages.Login	[main]	insert click login
+INFO	2020-01-09 18:58:02,347	24571	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 18:58:14,133	36357	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 18:58:14,532	36756	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 18:58:14,534	36758	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 18:58:20,718	42942	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 18:58:36,075	58299	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 18:58:44,655	66879	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 18:58:52,948	75172	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 18:59:01,291	83515	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 18:59:09,782	92006	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 19:01:21,714	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:01:29,276	7562	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:01:31,420	9706	pages.Login	[main]	insert user
+INFO	2020-01-09 19:01:32,744	11030	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:01:33,950	12236	pages.Login	[main]	insert click login
+INFO	2020-01-09 19:01:39,219	17505	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 19:01:50,536	28822	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 19:01:50,727	29013	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 19:01:50,727	29013	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 19:01:56,277	34563	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 19:02:10,489	48775	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 19:02:18,330	56616	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 19:02:26,007	64293	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 19:02:33,630	71916	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 19:02:41,304	79590	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 19:09:50,390	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:10:00,694	10304	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:10:04,708	14318	pages.Login	[main]	insert user
+INFO	2020-01-09 19:10:06,891	16501	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:10:08,677	18287	pages.Login	[main]	insert click login
+INFO	2020-01-09 19:10:14,403	24013	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 19:10:26,280	35890	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 19:10:26,700	36310	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 19:10:26,701	36311	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 19:10:32,881	42491	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 19:10:48,439	58049	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 19:10:57,179	66789	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 19:11:05,428	75038	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 19:11:13,680	83290	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 19:11:22,165	91775	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 19:16:49,014	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:16:59,265	10251	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:17:03,078	14064	pages.Login	[main]	insert user
+INFO	2020-01-09 19:17:05,293	16279	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:17:07,178	18164	pages.Login	[main]	insert click login
+INFO	2020-01-09 19:17:12,890	23876	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 19:17:24,723	35709	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 19:17:25,149	36135	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 19:17:25,152	36138	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 19:17:31,273	42259	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 19:17:46,755	57741	pages.CountryandSalesLine	[main]	select first value from drop down list
+INFO	2020-01-09 19:17:55,402	66388	pages.CountryandSalesLine	[main]	select second value from drop down list
+INFO	2020-01-09 19:18:03,715	74701	pages.CountryandSalesLine	[main]	select third value from drop down list
+INFO	2020-01-09 19:18:11,983	82969	pages.CountryandSalesLine	[main]	select fourth value from drop down list
+INFO	2020-01-09 19:18:20,339	91325	pages.CountryandSalesLine	[main]	select fifth value from drop down list
+INFO	2020-01-09 19:22:24,715	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:22:31,167	6452	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:22:33,411	8696	pages.Login	[main]	insert user
+INFO	2020-01-09 19:22:34,720	10005	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:23:41,005	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:23:46,990	5985	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:23:48,745	7740	pages.Login	[main]	insert user
+INFO	2020-01-09 19:23:50,051	9046	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:23:51,175	10170	pages.Login	[main]	insert click login
+INFO	2020-01-09 19:23:56,491	15486	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 19:24:07,845	26840	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 19:24:07,981	26976	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 19:24:07,981	26976	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 19:24:13,572	32567	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 19:26:09,130	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:26:16,893	7763	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:26:19,145	10015	pages.Login	[main]	insert user
+INFO	2020-01-09 19:26:20,511	11381	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:26:21,709	12579	pages.Login	[main]	insert click login
+INFO	2020-01-09 19:26:27,003	17873	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 19:26:38,368	29238	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 19:26:38,512	29382	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 19:26:38,512	29382	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 19:26:44,041	34911	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 19:36:47,776	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:36:54,963	7187	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:36:57,231	9455	pages.Login	[main]	insert user
+INFO	2020-01-09 19:36:58,611	10835	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:36:59,803	12027	pages.Login	[main]	insert click login
+INFO	2020-01-09 19:37:05,089	17313	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 19:37:16,466	28690	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 19:37:16,561	28785	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 19:37:16,561	28785	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 19:37:22,100	34324	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 19:39:08,254	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:39:15,724	7470	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:39:15,959	7705	pages.Login	[main]	insert user
+INFO	2020-01-09 19:39:17,702	9448	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:39:19,018	10764	pages.Login	[main]	insert click login
+INFO	2020-01-09 19:39:24,212	15958	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 19:39:35,385	27131	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 19:39:35,529	27275	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 19:39:35,530	27276	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 19:39:40,770	32516	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 19:42:39,336	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:42:49,209	9873	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:42:50,026	10690	pages.Login	[main]	insert user
+INFO	2020-01-09 19:42:52,076	12740	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:42:53,705	14369	pages.Login	[main]	insert click login
+INFO	2020-01-09 19:43:00,937	21601	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 19:43:12,629	33293	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 19:43:13,044	33708	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 19:43:13,045	33709	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 19:43:19,163	39827	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 19:55:45,156	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:55:55,507	10351	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:55:56,257	11101	pages.Login	[main]	insert user
+INFO	2020-01-09 19:55:58,201	13045	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:56:00,036	14880	pages.Login	[main]	insert click login
+INFO	2020-01-09 19:56:05,733	20577	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 19:56:17,436	32280	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 19:56:17,836	32680	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 19:56:17,838	32682	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 19:56:24,107	38951	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 19:59:04,955	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 19:59:14,524	9569	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 19:59:15,516	10561	pages.Login	[main]	insert user
+INFO	2020-01-09 19:59:17,481	12526	pages.Login	[main]	insert passs
+INFO	2020-01-09 19:59:19,171	14216	pages.Login	[main]	insert click login
+INFO	2020-01-09 19:59:24,788	19833	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 19:59:36,506	31551	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 19:59:36,902	31947	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 19:59:36,906	31951	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 19:59:42,970	38015	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 20:06:51,765	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 20:07:59,164	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 20:08:08,317	9153	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 20:08:09,143	9979	pages.Login	[main]	insert user
+INFO	2020-01-09 20:08:11,117	11953	pages.Login	[main]	insert passs
+INFO	2020-01-09 20:08:12,726	13562	pages.Login	[main]	insert click login
+INFO	2020-01-09 20:08:18,401	19237	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 20:11:00,753	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 20:11:09,267	8514	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 20:11:10,069	9316	pages.Login	[main]	insert user
+INFO	2020-01-09 20:12:21,404	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 20:13:24,427	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 20:13:32,751	8324	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 20:13:33,514	9087	pages.Login	[main]	insert user
+INFO	2020-01-09 20:13:35,502	11075	pages.Login	[main]	insert passs
+INFO	2020-01-09 20:13:37,132	12705	pages.Login	[main]	insert click login
+INFO	2020-01-09 20:13:42,848	18421	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 20:13:54,541	30114	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 20:13:54,935	30508	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 20:13:54,936	30509	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 20:14:01,075	36648	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-09 20:15:42,475	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-09 20:15:50,497	8022	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-09 20:15:51,304	8829	pages.Login	[main]	insert user
+INFO	2020-01-09 20:15:53,230	10755	pages.Login	[main]	insert passs
+INFO	2020-01-09 20:15:54,866	12391	pages.Login	[main]	insert click login
+INFO	2020-01-09 20:16:00,535	18060	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-09 20:16:12,235	29760	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-09 20:16:12,692	30217	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-09 20:16:12,694	30219	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-09 20:16:18,785	36310	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-13 15:36:28,393	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-13 15:36:37,578	9185	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-13 15:36:41,734	13341	pages.Login	[main]	insert user
+INFO	2020-01-13 15:36:43,803	15410	pages.Login	[main]	insert passs
+INFO	2020-01-13 15:36:45,699	17306	pages.Login	[main]	insert click login
+INFO	2020-01-13 15:36:56,521	28128	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-13 15:37:08,262	39869	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-13 15:37:08,783	40390	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-13 15:37:08,786	40393	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-13 15:37:15,042	46649	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-13 15:39:48,451	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-13 15:39:56,838	8387	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-13 15:40:00,077	11626	pages.Login	[main]	insert user
+INFO	2020-01-13 15:40:02,081	13630	pages.Login	[main]	insert passs
+INFO	2020-01-13 15:40:04,275	15824	pages.Login	[main]	insert click login
+INFO	2020-01-13 15:40:10,058	21607	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-13 15:40:22,038	33587	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-13 15:40:22,489	34038	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-13 15:40:22,489	34038	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-13 15:40:28,656	40205	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-13 15:58:32,481	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-13 15:58:42,088	9607	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-13 15:58:45,611	13130	pages.Login	[main]	insert user
+INFO	2020-01-13 15:58:47,739	15258	pages.Login	[main]	insert passs
+INFO	2020-01-13 15:58:49,592	17111	pages.Login	[main]	insert click login
+INFO	2020-01-13 15:58:55,362	22881	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-13 15:59:07,149	34668	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-13 15:59:07,584	35103	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-13 15:59:07,584	35103	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-13 15:59:13,710	41229	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-13 16:05:11,270	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-13 16:05:20,592	9322	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-13 16:05:23,943	12673	pages.Login	[main]	insert user
+INFO	2020-01-13 16:05:25,990	14720	pages.Login	[main]	insert passs
+INFO	2020-01-13 16:05:27,780	16510	pages.Login	[main]	insert click login
+INFO	2020-01-13 16:05:33,548	22278	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-13 16:05:45,388	34118	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-13 16:05:45,779	34509	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-13 16:05:45,779	34509	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-13 16:05:51,943	40673	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-13 16:07:08,850	0	DE.TestFlowDE1	[main]	start load data 
+INFO	2020-01-13 16:07:17,757	8907	DE.TestFlowDE1	[main]	end start load data 
+INFO	2020-01-13 16:07:21,111	12261	pages.Login	[main]	insert user
+INFO	2020-01-13 16:07:23,159	14309	pages.Login	[main]	insert passs
+INFO	2020-01-13 16:07:25,006	16156	pages.Login	[main]	insert click login
+INFO	2020-01-13 16:07:30,796	21946	DE.TestFlowDE1	[main]	login succesfully
+INFO	2020-01-13 16:07:42,536	33686	DE.TestFlowDE1	[main]	check the button querry
+INFO	2020-01-13 16:07:42,938	34088	pages.CountryandSalesLine	[main]	the  button querry is present
+INFO	2020-01-13 16:07:42,940	34090	DE.TestFlowDE1	[main]	Button querry exist
+INFO	2020-01-13 16:07:49,230	40380	pages.CountryandSalesLine	[main]	Select Poland
