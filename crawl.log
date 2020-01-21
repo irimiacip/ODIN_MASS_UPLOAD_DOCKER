@@ -1247,3 +1247,14 @@ INFO	2020-01-13 16:07:42,536	33686	DE.TestFlowDE1	[main]	check the button querry
 INFO	2020-01-13 16:07:42,938	34088	pages.CountryandSalesLine	[main]	the  button querry is present
 INFO	2020-01-13 16:07:42,940	34090	DE.TestFlowDE1	[main]	Button querry exist
 INFO	2020-01-13 16:07:49,230	40380	pages.CountryandSalesLine	[main]	Select Poland
+INFO	2020-01-21 15:28:04,487	0	PL.TestFlowPL1	[main]	start load data 
+INFO	2020-01-21 15:28:11,065	6578	PL.TestFlowPL1	[main]	end start load data 
+INFO	2020-01-21 15:28:13,251	8764	pages.Login	[main]	insert user
+INFO	2020-01-21 15:28:14,545	10058	pages.Login	[main]	insert passs
+INFO	2020-01-21 15:28:15,665	11178	pages.Login	[main]	insert click login
+INFO	2020-01-21 15:30:19,995	0	PL.TestFlowPL1	[main]	start load data 
+INFO	2020-01-21 15:30:26,612	6617	PL.TestFlowPL1	[main]	end start load data 
+INFO	2020-01-21 15:30:28,508	8513	pages.Login	[main]	insert user
+INFO	2020-01-21 15:30:29,795	9800	pages.Login	[main]	insert passs
+INFO	2020-01-21 15:30:30,913	10918	pages.Login	[main]	insert click login
+INFO	2020-01-21 15:30:36,181	16186	PL.TestFlowPL1	[main]	login succesfully
