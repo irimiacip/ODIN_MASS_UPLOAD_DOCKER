@@ -18,9 +18,9 @@ public class LoadDrivers {
 					System.getProperty("user.dir") + "/src/main/resources/drivers/geckodriver");
 			WebDriver driver = new FirefoxDriver();
 			FirefoxOptions options = new FirefoxOptions();
-			options.addArguments("disable-infobars");
-			options.addArguments("-headless");
 			options.setHeadless(true);
+			options.addArguments("-headless");
+			options.addArguments("disable-infobars");
 			driver.manage().window().maximize();
 			driver.get(url);
 			return driver;
